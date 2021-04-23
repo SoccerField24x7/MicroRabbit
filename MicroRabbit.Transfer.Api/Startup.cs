@@ -1,4 +1,5 @@
 using MediatR;
+using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.IoC;
 using MicroRabbit.Transfer.Data.Context;
 using MicroRabbit.Transfer.Domain.EventHandlers;
